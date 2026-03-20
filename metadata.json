@@ -1,0 +1,8 @@
+{
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "name": "Lumen AI Widget",
+  "description": "Intelligent AI lecture companion that lives in your browser as a widget."
+}
